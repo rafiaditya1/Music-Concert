@@ -1,5 +1,5 @@
 # Music Concert - Music Concert Application
-> Sebuah aplikasi mobile yang dibangun dengan framework Flutter untuk memenuhi tugas pada kelas "Belajar Membuat Aplikasi Flutter untuk Pemula" dari Dicoding. The work on this project is only an implementation of a design made by Hachibur Rahman, which can be accessed at [this link](https://dribbble.com/shots/14099860-Kazki-Job-Finding-App/attachments/5721545?mode=media).
+> Sebuah aplikasi mobile yang dibangun dengan framework Flutter untuk memenuhi tugas pada kelas "Belajar Membuat Aplikasi Flutter untuk Pemula" dari Dicoding.
 
 ## Technologies Used
 * Dart
