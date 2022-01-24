@@ -1,16 +1,19 @@
-# music_concert
+# Music Concert - Music Concert Application
+> Sebuah aplikasi mobile yang dibangun dengan framework Flutter untuk memenuhi tugas pada kelas "Belajar Membuat Aplikasi Flutter untuk Pemula" dari Dicoding. The work on this project is only an implementation of a design made by Hachibur Rahman, which can be accessed at [this link](https://dribbble.com/shots/14099860-Kazki-Job-Finding-App/attachments/5721545?mode=media).
 
-A new Flutter project.
+## Technologies Used
+* Dart
+* Flutter
 
-## Getting Started
+## What I Learned
+* Penggunaan widget untuk membuat tampilan aplikasi yang menarik
 
-This project is a starting point for a Flutter application.
+## Screen Captures
+#### Login Page:
+![Login Page](./images/ss1.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### Home Page:
+![Home Page](./images/ss2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Details Page:
+![Details Page](./images/ss3.png)
